@@ -10,7 +10,7 @@
 	Any modification of my client is encouraged as it
 	 is open source, and you are welcome to contact
 	    me through Discord in order to get access
-	         to the source code: marquiseco
+	         to the source code: marquisburg
 
 
 
@@ -50,4 +50,4 @@ You will be asked for a product key, which is only obtainable through me.
 Once unlocking the game, you will be greeted with a plethera of options and a board, where you can make moves.
 When you left click on a piece, you will be shown the legal moves of it. You must click on another square to move it.
 
-The engine will recomme
+The engine will recommend 3 of the best moves (on default).
