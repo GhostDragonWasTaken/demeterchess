@@ -17,16 +17,7 @@ from tkhtmlview import HTMLLabel
 CONFIG_FILE = "config.ini"
 
 PRODUCT_KEYS = [
-    "ABCD-EFGH-IJKL-MNOP",
-    "WXYZ-1234-5678-9ABC",
-    "FEDC-BA98-7654-3210",
-    "QWERT-YUIOP-ASDFG-HJKLZ",
-    "ZXCVB-NM123-456QW-ERTYU",
-    "POIUY-TREWQ-09876-54321",
-    "MNBVC-XZLKJ-ASDFG-POIUY",
-    "QAZWS-XEDCR-FVTGB-NHYMJ",
-    "PLKJI-UJHYT-GRFED-WSXQZ",
-    "OKMNI-JNUHB-HYGVF-RDESW"
+    "nuh-uh"
 ]
 
 class MainMenuUI(tk.Frame):
