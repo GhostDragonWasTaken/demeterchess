@@ -6,3 +6,4 @@ Required libraries:
 chess - https://pypi.org/project/chess/
 matplotlib - https://pypi.org/project/matplotlib/
 pyqt5 - https://pypi.org/project/PyQt5/
+pygame - https://pypi.org/project/pygame/
